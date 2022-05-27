@@ -1,0 +1,64 @@
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.deps.json
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.deps.json
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\38971\Desktop\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.deps.json
+C:\Users\38971\Desktop\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\38971\Desktop\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\38971\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfoInputs.cache
+C:\Users\38971\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfo.cs
+C:\Users\38971\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.csproj.CoreCompileInputs.cache
+C:\Users\38971\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\38971\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\38971\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.deps.json
+C:\Users\User\Desktop\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\User\Desktop\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\User\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfo.cs
+C:\Users\User\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\User\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.deps.json
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfoInputs.cache
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfo.cs
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.deps.json
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfoInputs.cache
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfo.cs
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.csproj.AssemblyReference.cache
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.deps.json
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Entities\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.csproj.AssemblyReference.cache
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfoInputs.cache
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.AssemblyInfo.cs
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Entities\obj\Debug\netcoreapp3.1\Movie.Entities.pdb

@@ -1,0 +1,84 @@
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.deps.json
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.pdb
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\Lenovo\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.pdb
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.deps.json
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.pdb
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.pdb
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.deps.json
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.pdb
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csprojAssemblyReference.cache
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfoInputs.cache
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfo.cs
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csproj.CoreCompileInputs.cache
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csproj.CopyComplete
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.pdb
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.runtimeconfig.json
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.runtimeconfig.dev.json
+C:\Users\38971\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csproj.CopyComplete
+C:\Users\User\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.deps.json
+C:\Users\User\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\User\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.pdb
+C:\Users\User\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\User\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\User\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfo.cs
+C:\Users\User\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csproj.CopyComplete
+C:\Users\User\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\User\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.pdb
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.deps.json
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.pdb
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfoInputs.cache
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfo.cs
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csproj.CopyComplete
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\Antonio\source\repos\C# SLQ DATABASE API\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.pdb
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.deps.json
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.pdb
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csproj.AssemblyReference.cache
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfoInputs.cache
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfo.cs
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\Antonio\Desktop\MoviesOnline\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.pdb
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.deps.json
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Data.pdb
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Entities.dll
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Data\bin\Debug\netcoreapp3.1\Movie.Entities.pdb
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csproj.AssemblyReference.cache
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfoInputs.cache
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.AssemblyInfo.cs
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.dll
+C:\Users\Antonio\Desktop\MoviesSopro-main\Movie.Data\obj\Debug\netcoreapp3.1\Movie.Data.pdb
