@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZjTliEgbBBhhCKZ0e8v8kRky39qr6zq6UHzKqwN2Kgy2/BPZtFrmA+M/yjltpd9XN8fh0CS9iSmNNhhqo7BTwQ==",
+  "dgSpecHash": "4D0ZCgOdgAGcb6OEXYNliPU/y78j20k0r2oCscbEc6/YNQCdV2ReRhE7dRzDWXq/l2kICY0kTpw7cW8qxuHS6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Antonio\\Desktop\\MoviesSopro-main\\Movie.Repository\\Movie.Repository.csproj",
+  "projectFilePath": "C:\\Users\\Antonio\\Desktop\\Sve Za Front-End\\Sve Za na Git\\MoviesSopro\\Movie.Repository\\Movie.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.11\\microsoft.aspnetcore.cryptography.internal.3.1.11.nupkg.sha512",
     "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.11\\microsoft.aspnetcore.cryptography.keyderivation.3.1.11.nupkg.sha512",

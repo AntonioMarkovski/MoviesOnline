@@ -373,11 +373,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Antonio\\Desktop\\MoviesSopro-main\\Movie.Entities\\Movie.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Antonio\\Desktop\\Sve Za Front-End\\Sve Za na Git\\MoviesSopro\\Movie.Entities\\Movie.Entities.csproj",
       "projectName": "Movie.Entities",
-      "projectPath": "C:\\Users\\Antonio\\Desktop\\MoviesSopro-main\\Movie.Entities\\Movie.Entities.csproj",
+      "projectPath": "C:\\Users\\Antonio\\Desktop\\Sve Za Front-End\\Sve Za na Git\\MoviesSopro\\Movie.Entities\\Movie.Entities.csproj",
       "packagesPath": "C:\\Users\\Antonio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antonio\\Desktop\\MoviesSopro-main\\Movie.Entities\\obj\\",
+      "outputPath": "C:\\Users\\Antonio\\Desktop\\Sve Za Front-End\\Sve Za na Git\\MoviesSopro\\Movie.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

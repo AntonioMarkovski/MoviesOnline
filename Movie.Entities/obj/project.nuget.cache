@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4VZcq2Vs4dLjHWvQ2Vn0RCQYLYSYBIG+1U16KCBf6iJgcrLHmYhXnAe1mHoOhDVcF2yp2sW3x6jpIwVVqq+uPQ==",
+  "dgSpecHash": "hfJbyIGSAKbcEs0M/ttCEC8v4sCwwDQM0xhhsAh0pmhhK19jOJQXRtLYGqCwyRlRkUryrxY/zyY7J+pfOleHmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Antonio\\Desktop\\MoviesSopro-main\\Movie.Entities\\Movie.Entities.csproj",
+  "projectFilePath": "C:\\Users\\Antonio\\Desktop\\Sve Za Front-End\\Sve Za na Git\\MoviesSopro\\Movie.Entities\\Movie.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.extensions.configuration\\3.0.0\\microsoft.extensions.configuration.3.0.0.nupkg.sha512",
     "C:\\Users\\Antonio\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
